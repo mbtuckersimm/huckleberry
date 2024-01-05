@@ -22,7 +22,6 @@ strong {
 }
 
 header {
-    background-color: hsl(0deg, 0%, 100%);
     border-bottom: 8px solid hsl(0deg, 0%, 60%);
     padding-top: 32px;
     padding-bottom: 32px;
