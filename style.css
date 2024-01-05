@@ -7,7 +7,6 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: hsl(0deg, 0%, 30%);
 }
 
 /* Add styles here! */
@@ -27,7 +26,6 @@ header {
     border-bottom: 8px solid hsl(0deg, 0%, 60%);
     padding-top: 32px;
     padding-bottom: 32px;
-    margin-bottom: 48px;
 }
 
 .intro-chunk {
@@ -38,6 +36,11 @@ header {
 
 .title {
     font-size: 2rem;
+}
+
+main {
+    background-color: hsl(0deg, 0%, 30%);
+    padding: 64px 0;
 }
 
 .card {
